@@ -1,7 +1,7 @@
 
 
 
-.section_space{
+.section_space {
 
   margin-top: 5rem;
   margin-bottom: 5rem;
@@ -12,4 +12,10 @@
 
   margin-top: 1rem;
   margin-bottom: 2rem;
+}
+
+ul li {
+
+  list-style: none;
+  text-align: left !important;
 }
