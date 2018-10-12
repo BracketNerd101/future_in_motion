@@ -1,4 +1,5 @@
 
+/* font-family: 'Montserrat', sans-serif; */
 
 
 .section_space {
@@ -18,4 +19,23 @@ ul li {
 
   list-style: none;
   text-align: left !important;
+}
+
+ul {
+
+  padding-left: 0px;
+
+
+}
+
+.custome_header_fonts {
+
+font-family: 'Montserrat', sans-serif;
+}
+
+
+li {
+
+  margin-left: 0px;
+
 }
