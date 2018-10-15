@@ -19,3 +19,17 @@ ul li {
   list-style: none;
   text-align: left !important;
 }
+
+ul {
+
+  padding-left: 0px;
+
+
+}
+
+
+li {
+
+  margin-left: 0px;
+
+}
